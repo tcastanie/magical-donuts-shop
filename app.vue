@@ -18,6 +18,7 @@ useHead({
   ]
 })
 useSeoMeta({
-  title: 'Magical Donut shop'
+  title: 'Donuts Magiques',
+  description: 'Laissez-vous envoûter par les saveurs enchanteresses de nos beignets magiques ! Nos beignets sont préparés avec les meilleurs ingrédients et imprégnés de pouvoirs mystiques qui vous transporteront dans un monde merveilleux. Du chocolat ensorcelant à la myrtille ensorcelante, nos beignets sont sûrs de jeter un sort délicieux à vos papilles gustatives. Commandez maintenant et découvrez la magie par vous-même !'
 })
 </script>

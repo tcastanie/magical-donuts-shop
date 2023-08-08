@@ -1,7 +1,9 @@
 <template>
-  <div class="bg-gradient-to-br from-jackson from-10% to-eggplant to to-90% text-white">
-    <pre>nav</pre>
-    <slot />
+  <div class="bg-gradient-to-tl from-sea from-70% via-strawberry via-90% to-blond bg-fixed text-white ">
+    <TheNav />
+    <div class="pt-24">
+      <slot />
+    </div>
     <pre>footer</pre>
   </div>
 </template>
