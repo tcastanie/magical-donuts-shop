@@ -4,6 +4,6 @@
     <div class="pt-24">
       <slot />
     </div>
-    <pre>footer</pre>
+    <TheFooter />
   </div>
 </template>

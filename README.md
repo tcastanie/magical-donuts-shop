@@ -1,3 +1,3 @@
-# Magic Donuts shop
+# Magical Donuts shop
 
-![magic-donut-shop](assets/home1_redim.webp)
+![magical-donut-shop](assets/home1_redim.webp)
