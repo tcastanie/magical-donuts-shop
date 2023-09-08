@@ -12,8 +12,13 @@ useHead({
   link: [
     {
       rel: 'icon',
-      type: 'image/x-icon',
-      href: '/favicon.ico'
+      type: 'image/svg+xml',
+      href: '/favicon.svg'
+    },
+    {
+      rel: 'icon',
+      type: 'image/png',
+      href: '/favicon.png'
     }
   ]
 })

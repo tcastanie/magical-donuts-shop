@@ -2,7 +2,7 @@
   <div class="flex flex-wrap">
     <NuxtLink v-for="item of selectedItems" :key="item.id" class="flex w-full flex-col md:w-1/2 lg:w-1/3" :to="`/item/${item.slug}`">
       <div class="grow-0">
-        <img :src="`/donuts/${item.image}`" :alt="item.name" class="h-full w-full object-cover">
+        <img :src="`/donuts/${item.image}`" :alt="item.name" class="h-full w-full object-cover duration-700 hover:brightness-150 active:brightness-150">
       </div>
       <div class="flex flex-col justify-center p-4">
         <div class="mb-4 text-2xl font-bold uppercase tracking-widest text-blond">
